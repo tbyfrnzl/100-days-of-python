@@ -7,4 +7,4 @@
 | 01 | Printing, Commenting, Debugging, String Manipulation, Variables | May 11, 2022 |
 | 02 | Data Types, Numbers, Operations, Type Conversion, f-Strings | May 12, 2022 |
 | 03 | Conditionals, Logical Operators, Code Blocks, Scope | May 14, 2022 |
-| 04 | Randomisation, Python Lists | May 14, 2022, WIP |
+| 04 | Randomisation, Python Lists | May 17, 2022 |
