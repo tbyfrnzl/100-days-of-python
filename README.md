@@ -8,3 +8,4 @@
 | 02 | Data Types, Numbers, Operations, Type Conversion, f-Strings | May 12, 2022 |
 | 03 | Conditionals, Logical Operators, Code Blocks, Scope | May 14, 2022 |
 | 04 | Randomisation, Python Lists | May 17, 2022 |
+| 05 | For Loops, Range, Code Blocks | May 20, 2022 |
