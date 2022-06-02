@@ -9,3 +9,4 @@
 | 03 | Conditionals, Logical Operators, Code Blocks, Scope | May 14, 2022 |
 | 04 | Randomisation, Python Lists | May 17, 2022 |
 | 05 | For Loops, Range, Code Blocks | May 20, 2022 |
+| 06 | Functions, Code Blocks, While Loops | June 01, 2022 |
