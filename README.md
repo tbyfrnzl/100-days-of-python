@@ -10,3 +10,4 @@
 | 04 | Randomisation, Python Lists | May 17, 2022 |
 | 05 | For Loops, Range, Code Blocks | May 20, 2022 |
 | 06 | Functions, Code Blocks, While Loops | June 01, 2022 |
+| 07 | Hangman | June 02, 2022 |
