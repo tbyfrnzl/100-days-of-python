@@ -11,5 +11,6 @@
 | 05 | For Loops, Range, Code Blocks | May 20, 2022 |
 | 06 | Functions, Code Blocks, While Loops | June 01, 2022 |
 | 07 | Hangman | June 02, 2022 |
-| 08 | Caesar Cipher | October 18, 2024 |
+| 08 | Caesar Cipher | October 18, 2024 |
 | 09 | Blind Auction | November 6, 2024 | 
+| 10 | Calculator | November 8, 2024 |
